@@ -1,0 +1,223 @@
+parallel search:
+generate initial solution:
+
+Consequence: 
+12 Route 1: 0->81->78->104->76->71->70->73->77->79->80->49->47->0
+8 Route 2: 0->57->55->19->15->97->106->100->99->0
+10 Route 3: 0->54->53->56->58->60->59->51->101->50->52->0
+10 Route 4: 0->43->42->41->40->84->64->102->89->66->69->0
+6 Route 5: 0->13->17->18->16->14->12->0
+10 Route 6: 0->32->33->31->35->37->38->39->36->105->34->0
+8 Route 7: 0->20->24->86->11->9->4->91->1->0
+10 Route 8: 0->87->83->29->30->28->26->23->103->22->21->0
+8 Route 9: 0->3->25->27->44->46->45->48->75->0
+8 Route 10: 0->5->96->7->94->82->85->6->2->0
+8 Route 11: 0->67->65->63->62->74->72->61->68->0
+4 Route 12: 0->90->92->93->88->0
+4 Route 13: 0->98->95->8->10->0
+
+cost:
+NV: 13 TC: 1492.4762592878994 SD: 12204.06395770955 WT: 1711.587698421652
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+better solution accur at 4
+better solution accur at 5
+better solution accur at 6
+worse solution accur at 7
+better solution accur at 8
+better solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+worse solution accur at 19
+worse solution accur at 20
+test =0
+current solution:
+
+Consequence: 
+10 Route 1: 0->3->86->8->10->11->9->4->91->1->75->0
+14 Route 2: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+12 Route 3: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+12 Route 4: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+8 Route 5: 0->5->96->7->94->82->85->6->2->0
+8 Route 6: 0->57->55->54->53->58->60->100->99->0
+10 Route 7: 0->81->78->104->76->71->70->73->77->79->80->0
+8 Route 8: 0->13->17->18->19->15->16->14->12->0
+6 Route 9: 0->87->83->56->84->59->89->0
+10 Route 10: 0->32->33->31->35->37->38->39->36->105->34->0
+6 Route 11: 0->98->95->92->93->97->106->0
+2 Route 12: 0->90->88->0
+
+cost:
+NV: 12 TC: 1147.5039357848245 SD: 11348.394443400795 WT: 1200.890507615973
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+better solution accur at 5
+better solution accur at 6
+worse solution accur at 7
+better solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+worse solution accur at 19
+test =1
+current solution:
+
+Consequence: 
+12 Route 1: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+12 Route 2: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+10 Route 3: 0->32->33->31->35->37->38->39->36->105->34->0
+14 Route 4: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+10 Route 5: 0->81->78->104->76->71->70->73->77->79->80->0
+6 Route 6: 0->87->83->56->84->59->89->0
+8 Route 7: 0->13->17->18->19->15->16->14->12->0
+10 Route 8: 0->3->86->8->10->11->9->4->91->1->75->0
+8 Route 9: 0->57->55->54->53->58->60->100->99->0
+6 Route 10: 0->98->95->92->93->97->106->0
+8 Route 11: 0->5->96->7->94->82->85->6->2->0
+2 Route 12: 0->90->88->0
+
+cost:
+NV: 12 TC: 1147.5039357848245 SD: 11348.394443400797 WT: 1200.8905076159729
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+better solution accur at 4
+better solution accur at 5
+worse solution accur at 6
+worse solution accur at 7
+worse solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+test =2
+current solution:
+
+Consequence: 
+14 Route 1: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+8 Route 2: 0->13->17->18->19->15->16->14->12->0
+10 Route 3: 0->3->86->8->10->11->9->4->91->1->75->0
+8 Route 4: 0->5->96->7->94->82->85->6->2->0
+6 Route 5: 0->98->95->92->93->97->106->0
+6 Route 6: 0->87->83->56->84->59->89->0
+8 Route 7: 0->57->55->54->53->58->60->100->99->0
+12 Route 8: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+12 Route 9: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+2 Route 10: 0->90->88->0
+10 Route 11: 0->81->78->104->76->71->70->73->77->79->80->0
+10 Route 12: 0->32->33->31->35->37->38->39->36->105->34->0
+
+cost:
+NV: 12 TC: 1147.5039357848245 SD: 11348.394443400797 WT: 1200.890507615973
+better solution accur at 1
+better solution accur at 2
+worse solution accur at 3
+worse solution accur at 4
+worse solution accur at 5
+worse solution accur at 6
+better solution accur at 7
+better solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+worse solution accur at 19
+test =3
+current solution:
+
+Consequence: 
+12 Route 1: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+8 Route 2: 0->57->55->54->53->58->60->100->99->0
+12 Route 3: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+6 Route 4: 0->98->95->92->93->97->106->0
+10 Route 5: 0->3->86->8->10->11->9->4->91->1->75->0
+10 Route 6: 0->32->33->31->35->37->38->39->36->105->34->0
+14 Route 7: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+2 Route 8: 0->90->88->0
+8 Route 9: 0->5->96->7->94->82->85->6->2->0
+6 Route 10: 0->87->83->56->84->59->89->0
+8 Route 11: 0->13->17->18->19->15->16->14->12->0
+10 Route 12: 0->81->78->104->76->71->70->73->77->79->80->0
+
+cost:
+NV: 12 TC: 1147.5039357848245 SD: 11348.394443400797 WT: 1200.8905076159729
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+worse solution accur at 4
+worse solution accur at 5
+worse solution accur at 6
+worse solution accur at 7
+better solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+worse solution accur at 19
+test =4
+current solution:
+
+Consequence: 
+12 Route 1: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+8 Route 2: 0->3->86->92->93->97->106->91->75->0
+10 Route 3: 0->98->95->8->10->11->9->6->4->2->1->0
+12 Route 4: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+8 Route 5: 0->5->96->7->94->82->85->100->99->0
+8 Route 6: 0->13->17->18->19->15->16->14->12->0
+10 Route 7: 0->32->33->31->35->37->38->39->36->105->34->0
+8 Route 8: 0->57->55->54->53->56->58->60->59->0
+10 Route 9: 0->81->78->104->76->71->70->73->77->79->80->0
+14 Route 10: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+6 Route 11: 0->90->87->83->84->88->89->0
+
+cost:
+NV: 11 TC: 1268.1908527409219 SD: 10787.345548065741 WT: 519.1546953248185
+best solution:
+
+Consequence: 
+12 Route 1: 0->67->65->63->62->74->72->61->64->102->68->66->69->0
+8 Route 2: 0->3->86->92->93->97->106->91->75->0
+10 Route 3: 0->98->95->8->10->11->9->6->4->2->1->0
+12 Route 4: 0->20->24->25->27->29->30->28->26->23->103->22->21->0
+8 Route 5: 0->5->96->7->94->82->85->100->99->0
+8 Route 6: 0->13->17->18->19->15->16->14->12->0
+10 Route 7: 0->32->33->31->35->37->38->39->36->105->34->0
+8 Route 8: 0->57->55->54->53->56->58->60->59->0
+10 Route 9: 0->81->78->104->76->71->70->73->77->79->80->0
+14 Route 10: 0->43->42->41->40->44->46->45->48->51->101->50->52->49->47->0
+6 Route 11: 0->90->87->83->84->88->89->0
+
+cost:
+NV: 11 TC: 1268.1908527409219 SD: 10787.345548065741 WT: 519.1546953248185

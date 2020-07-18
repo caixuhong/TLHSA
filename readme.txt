@@ -1,0 +1,3 @@
+---the pdp_100 folder includes 56 standard Li and Lim's pdp_100 instances.
+---the mopdp_100 folder includes 56 generated MOPDPTW instances from standard pdp_100 instances.
+---the result.mopdp folder includes our results from our designed TLHSA on mopdp_100.

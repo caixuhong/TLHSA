@@ -1,0 +1,155 @@
+parallel search:
+generate initial solution:
+
+Consequence: 
+30 Route 1: 0->97->83->91->81->5->75->2->1->92->85->3->98->4->86->82->95->7->40->46->71->76->73->70->80->94->78->77->96->59->57->0
+32 Route 2: 0->67->63->62->74->72->61->64->66->69->68->65->49->55->54->53->56->58->60->44->51->50->45->20->12->13->21->42->41->43->47->52->48->0
+34 Route 3: 0->22->24->27->30->29->6->32->31->33->35->37->89->38->39->36->34->28->84->23->26->18->19->15->17->16->14->25->9->11->10->102->8->87->90->0
+6 Route 4: 0->93->99->100->101->88->79->0
+
+cost:
+NV: 4 TC: 1214.3045405960404 SD: 12766.010749061785 WT: 2551.706208465745
+better solution accur at 1
+better solution accur at 2
+worse solution accur at 3
+better solution accur at 4
+better solution accur at 5
+worse solution accur at 6
+better solution accur at 7
+worse solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+test =0
+current solution:
+
+Consequence: 
+18 Route 1: 0->5->75->2->85->1->92->3->4->98->82->71->73->76->70->86->80->77->96->0
+32 Route 2: 0->67->63->62->74->95->72->64->66->69->68->65->49->55->54->53->56->58->59->94->40->7->44->45->52->47->42->41->78->57->46->43->48->0
+28 Route 3: 0->22->24->27->30->6->32->33->37->89->38->36->28->26->84->23->18->19->16->14->91->12->81->13->9->11->10->102->8->0
+24 Route 4: 0->61->93->99->100->60->101->51->50->31->35->39->34->29->88->20->21->97->83->15->17->25->79->87->90->0
+
+cost:
+NV: 4 TC: 891.4657656330648 SD: 12771.186145072817 WT: 2879.720379439753
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+better solution accur at 4
+worse solution accur at 5
+worse solution accur at 6
+worse solution accur at 7
+worse solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+worse solution accur at 15
+test =1
+current solution:
+
+Consequence: 
+18 Route 1: 0->5->75->2->1->85->92->3->4->98->82->71->73->76->86->70->80->77->96->0
+32 Route 2: 0->67->63->62->74->72->95->64->66->69->68->65->49->55->54->53->56->58->59->94->40->44->7->45->52->47->42->41->57->78->46->43->48->0
+30 Route 3: 0->22->24->27->30->29->6->32->33->31->35->37->89->38->39->36->28->26->84->23->18->19->16->14->15->17->9->11->10->102->8->0
+22 Route 4: 0->61->93->99->60->100->101->51->50->34->88->20->21->97->83->91->12->81->13->25->79->87->90->0
+
+cost:
+NV: 4 TC: 892.2771271405193 SD: 12771.186145072817 WT: 2878.9090179322984
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+better solution accur at 5
+worse solution accur at 6
+better solution accur at 7
+worse solution accur at 8
+worse solution accur at 9
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 15
+worse solution accur at 16
+worse solution accur at 17
+worse solution accur at 18
+worse solution accur at 19
+worse solution accur at 20
+worse solution accur at 21
+test =2
+current solution:
+
+Consequence: 
+28 Route 1: 0->20->22->24->27->30->29->6->32->33->89->38->36->28->26->84->23->18->17->19->16->9->11->10->102->8->21->87->90->0
+28 Route 2: 0->67->63->62->74->95->72->64->66->69->68->65->49->55->54->53->56->58->40->7->44->46->45->52->47->42->41->43->48->0
+28 Route 3: 0->61->93->59->94->60->100->99->101->51->31->35->37->39->34->88->97->83->91->12->14->15->81->13->25->79->50->57->78->0
+18 Route 4: 0->5->75->2->1->85->92->3->4->98->82->71->73->76->86->70->80->77->96->0
+
+cost:
+NV: 4 TC: 921.588741059131 SD: 12526.639598189442 WT: 2605.0508571303126
+better solution accur at 1
+better solution accur at 2
+better solution accur at 3
+worse solution accur at 4
+worse solution accur at 5
+worse solution accur at 6
+worse solution accur at 7
+worse solution accur at 8
+worse solution accur at 9
+worse solution accur at 10
+worse solution accur at 11
+worse solution accur at 12
+worse solution accur at 13
+worse solution accur at 14
+test =3
+current solution:
+
+Consequence: 
+32 Route 1: 0->67->63->62->74->72->95->64->66->69->68->65->49->55->54->53->56->58->94->59->40->44->7->45->52->47->42->41->78->57->46->43->48->0
+30 Route 2: 0->22->24->27->30->29->6->32->33->31->35->37->89->38->39->36->28->26->84->23->18->19->16->14->15->17->9->11->10->102->8->0
+22 Route 3: 0->61->93->99->60->100->101->51->50->34->88->20->21->97->83->12->91->13->81->25->79->87->90->0
+18 Route 4: 0->5->75->2->1->85->92->3->4->98->82->71->73->76->86->70->80->77->96->0
+
+cost:
+NV: 4 TC: 892.2771271405193 SD: 12771.186145072817 WT: 2878.9090179322984
+better solution accur at 1
+better solution accur at 6
+better solution accur at 19
+better solution accur at 20
+worse solution accur at 21
+worse solution accur at 22
+worse solution accur at 23
+worse solution accur at 24
+worse solution accur at 25
+worse solution accur at 26
+worse solution accur at 27
+worse solution accur at 28
+worse solution accur at 29
+worse solution accur at 30
+worse solution accur at 31
+test =4
+current solution:
+
+Consequence: 
+20 Route 1: 0->97->83->5->75->2->85->1->92->3->98->4->82->71->76->73->70->86->80->77->96->0
+32 Route 2: 0->67->63->62->74->95->72->64->66->69->68->65->49->55->54->53->56->58->59->94->40->7->44->45->52->47->42->41->57->78->46->43->48->0
+34 Route 3: 0->20->22->24->27->30->6->32->33->31->35->37->89->38->39->36->28->26->84->23->18->16->14->12->91->15->19->13->81->9->11->10->102->8->21->0
+16 Route 4: 0->61->93->99->60->100->101->51->50->34->29->88->17->25->79->87->90->0
+
+cost:
+NV: 4 TC: 888.5964695338898 SD: 12950.56236710276 WT: 3061.9658975688717
+best solution:
+
+Consequence: 
+20 Route 1: 0->97->83->5->75->2->85->1->92->3->98->4->82->71->76->73->70->86->80->77->96->0
+32 Route 2: 0->67->63->62->74->95->72->64->66->69->68->65->49->55->54->53->56->58->59->94->40->7->44->45->52->47->42->41->57->78->46->43->48->0
+34 Route 3: 0->20->22->24->27->30->6->32->33->31->35->37->89->38->39->36->28->26->84->23->18->16->14->12->91->15->19->13->81->9->11->10->102->8->21->0
+16 Route 4: 0->61->93->99->60->100->101->51->50->34->29->88->17->25->79->87->90->0
+
+cost:
+NV: 4 TC: 888.5964695338898 SD: 12950.56236710276 WT: 3061.9658975688717
